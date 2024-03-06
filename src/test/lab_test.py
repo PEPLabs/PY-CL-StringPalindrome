@@ -1,5 +1,5 @@
 import unittest
-from ..main.lab import is_palindrome
+from src.main.lab import is_palindrome
 
 class TestPalindrome(unittest.TestCase):
 
