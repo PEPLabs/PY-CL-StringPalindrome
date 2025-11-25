@@ -1,0 +1,15 @@
+{
+  "type": "python",
+  "testFiles": [
+    {
+      "path": "src/test/lab_test.py",
+      "testCases": [
+        {
+          "methodName": "test_palindrome",
+          "label": "Verify palindrome detection",
+          "description": "Checks that is_palindrome correctly identifies valid palindromes—including those with punctuation and mixed case—and returns False for non-palindrome strings."
+        }
+      ]
+    }
+  ]
+}
